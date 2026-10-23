@@ -1,0 +1,2 @@
+# Only for putting the PS5 into rest mode; waking and status work without it.
+pyremoteplay==0.7.6

@@ -1,0 +1,6 @@
+keyring>=25
+cryptography>=41
+tzdata>=2024.1
+tinytuya==1.20.0
+PSNAWP==2.1.0
+zeroconf==0.147.0

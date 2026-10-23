@@ -1,0 +1,10 @@
+# pyremoteplay's dependencies, with netifaces-plus (prebuilt wheels, same `netifaces` module) in place of
+# netifaces, which needs MSVC to build. Then: python -m pip install pyremoteplay==0.7.6 --no-deps
+netifaces-plus
+cryptography
+protobuf
+pyee<12
+pyps4-2ndscreen
+pyyaml
+requests
+wheel
